@@ -1,0 +1,10 @@
+package OperacoesBasicas;
+
+public class ListaTarefas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
